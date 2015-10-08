@@ -1,4 +1,4 @@
-# ZombieEsape
+# ZombieEscape
 Making an Android Game without any Game Engine
 
 This App is part of a tutorial. The challenge for this game app is
